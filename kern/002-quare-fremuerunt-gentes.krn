@@ -1,0 +1,91 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 2
+!!!OTL@@LA: Quare fremuerunt gentes
+!!!OTL-incipit@@DE: Warum empören sich die heiden
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+1G	Wa-
+2G	-rum
+2G	em-
+2F#	-pö-
+1G	-ren
+2A	sich
+2B-	die
+1A	hei-
+1G	-den/
+2r	.
+=-	=-
+1B-	Und
+1A	wü-
+1G	-ten
+2F	so
+2B-	von
+2A	al-
+2G	-len
+1A	sei-
+1G	ten/
+2r	.
+=-	=-
+1G	Sind
+2A	un-
+2B-	-ge-
+2A	-stuͤm-
+2G	-mes
+1F	grim-
+1E	-men
+1D	vol?
+2r	.
+=-	=-
+2-	.
+1A	Die
+2B-	leut
+2c	gehn
+2d	um
+2d	mit
+2c	lo-
+2B-	-sen
+1c	ren-
+1B-	-cken/
+2r	.
+=-	=-
+1d	Thůn
+2c	ei-
+2B-	-tel
+2A	ding
+2F	mit
+2G	list
+2F	er-
+1E	-den-
+2D	-cken/
+=-	=-
+2r	.
+1D	Das
+2F	ihn
+2G	doch
+2A	nicht
+2G	ge-
+1B-	-lin-
+1A	-gen
+000G;	soll?
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=55
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2022/03/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2022/03/28
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
