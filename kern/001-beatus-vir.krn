@@ -1,0 +1,90 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 1
+!!!OTL@@LA: Beatus vir
+!!!OTL-incipit@@DE: Selig zu preisen ist der mann
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+1c	Se-
+2c	-lig
+2c	zu
+2A	prei-
+2B-	-sen
+1A	ist
+1G	der
+1F	mann/
+2r	.
+=-	=-
+1F	Der
+2A	sich
+2B-	ent-
+2c	-helt
+2c	von
+2d	den
+2c	got-
+1B-	-lo-
+1A	-sen/
+2r	.
+=-	=-
+1G	Und
+2A	wan-
+2B-	-delt
+2c	nicht
+2A	im
+2B-	rat
+2c	der
+1d	bö-
+1c	-sen/
+2r	.
+=-	=-
+1c	Trit
+1f	auch
+1e	nicht
+2d	auff
+2c	der
+2c	sün-
+2B-	-der
+1c	ban/
+2r	.
+=-	=-
+1c	Noch
+2d	sitzt
+2d	bey
+2A	giff-
+2d	-tig-
+2c	-bö-
+2A	-sen
+1B-	rot
+1A	ten/
+2r	.
+=-	=-
+1c	Da
+2A	man
+2G	hon-
+2F	-schimpf-
+2A	-lich
+2B-	weiß
+2A	zu
+1G	spot-
+0Fll;	-ten.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=53
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2022/03/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2022/03/28
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
