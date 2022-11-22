@@ -1,0 +1,103 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 3
+!!!OTL@@LA: Domine quid multiplicati
+!!!OTL-incipit@@DE: O Herr ich klag es dir
+**kern	**text
+*Ivox	*
+*clefC1	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+1g	O
+2g	Herr
+2b-	ich
+=-	=-
+2b-	klar
+2a	es
+1b-	dir/
+=-	=-
+1r	.
+1b-	Un-
+=-	=-
+2cc	-zal-
+2dd	-bar
+2dd	viel
+2cc	sind
+=-	=-
+1dd	ihr/
+1r	.
+=-	=-
+1dd	Die
+2g	mich
+2a	in
+=-	=-
+2b-	die-
+2a	-sen
+1g	ta-
+=-	=-
+2f	-gen
+2d	On
+2f	füg
+2f	hoch
+=-	=-
+2g	schwer-
+2a	-lich
+1b-	pla-
+=-	=-
+1a	-gen/
+1r	.
+=-	=-
+1b-	Viel
+2a	sind
+2g	der
+=-	=-
+2f	bö-
+2e-	-sen
+1d	leut/
+=-	=-
+1r	.
+1a	Die
+=-	=-
+2b-	feind-
+2a	-lich
+2b-	die-
+2cc	-ser
+=-	=-
+1dd	zeit
+1r	.
+=-	=-
+1dd	Gar
+2g	un-
+2a	-ver-
+=-	=-
+2b-	schuld-
+2a	-ter
+1g	sa-
+=-	=-
+2f	-chen/
+2g	Sich
+2a	wi-
+2b-	-der
+=-	=-
+2a	mich
+2g	auff-
+1f#	-ma-
+=-	=-
+0gll	-chen.
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=58
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2022/11/22
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2022/11/22
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
