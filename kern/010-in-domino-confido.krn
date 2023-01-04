@@ -1,0 +1,105 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 10
+!!!OTL@@LA: In Domino confido
+!!!OTL-incipit@@DE: Mein hertz und můt mit festem trawen
+**kern	**text
+*Ivox	*
+*clefC2	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+1d	Mein
+2d	hertz
+2d	und
+=-	=-
+1c	můt
+1d	mit
+=-	=-
+2e	fes-
+2f	-tem
+1e	tra-
+=-	=-
+1d	-wen
+1r	.
+=-	=-
+1f	Thůt
+1e	auff
+=-	=-
+1d	den
+2c	Her-
+2f	-ren
+=-	=-
+2e	im-
+2d	-mer
+1e	ba-
+=-	=-
+1d	-wen/
+1r	.
+=-	=-
+1d	Wie
+2e	sprecht
+2f	ihr
+=-	=-
+2e	dann
+2d	zůr
+1c	see-
+=-	=-
+1B	-le
+1A	mein:
+=-	=-
+1r	.
+1e	Heb
+=-	=-
+2f	dich/
+2g	fleuch
+2a	in
+2a	der
+=-	=-
+2g	eil
+2f	von
+1g	hin-
+=-	=-
+1f	-ne
+1r	.
+=-	=-
+1a	Auff
+2g	dei-
+2f	-nen
+=-	=-
+2e	berg
+2c	hin
+2d	zů-
+2c	-ent-
+=-	=-
+1B	-rin-
+1A	-nen/
+=-	=-
+1r	.
+1A	Wie
+=-	=-
+2c	ein
+2d	schnel
+2e	flie-
+2d	-gends
+=-	=-
+1f	vö-
+1e	-ge-
+1dll;	-lein.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=71
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/01/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/01/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
