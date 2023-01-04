@@ -1,0 +1,124 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 9
+!!!OTL@@LA: Confitebor tibi Domine
+!!!OTL-incipit@@DE: Ich wil auß gantzem hertzen mein
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	
+*>A	*>A	*>A
+*clefC2	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+1d	Ich	Wil
+2d	wil	al-
+2d	auß	-le
+=-	=-	=-
+2A	gan-	wun-
+2B	-tzem	-der-
+1c	her-	-wer-
+=-	=-	=-
+1d	-tzen	-cke
+1e	mein	dein
+=-	=-	=-
+1r	.	.
+1d	Dir	Mit
+=-	=-	=-
+2f	Herr	ho-
+2f	preis	-hem
+2g	ehr	vleis
+2f	be-	ver-
+=-	=-	=-
+1e	-rei-	-brei-
+1d	-ten/	-ten.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+1r	.	.
+1a	In	.
+=-	=-	=-
+1a	dir	.
+1d	wil	.
+=-	=-	=-
+2g	ich	.
+2f	ein-	.
+2e	-brün-	.
+2d	-stig-	.
+=-	=-	=-
+1c	-lich	.
+1r	.	.
+=-	=-	=-
+1d	O	.
+2e	höch-	.
+2f	-ster	.
+=-	=-	=-
+2g	Got	.
+2a	er-	.
+2g	-fre-	.
+2f	-wen	.
+=-	=-	=-
+1e	mich/	.
+1r	.	.
+=-	=-	=-
+1e	Und	.
+2f	fing-	.
+2e	-en	.
+=-	=-	=-
+2d	dei-	.
+2c	-nem	.
+1B-	na-	.
+=-	=-	=-
+1A	-men	.
+1r	.	.
+=-	=-	=-
+1A	Wenn	.
+1c	du	.
+=-	=-	=-
+1d	ver-	.
+2e	-jagt	.
+2d	hast	.
+=-	=-	=-
+2f	mei-	.
+2f	-ne	.
+1e	feind	.
+=-	=-	=-
+1r	.	.
+1e	Daß	.
+=-	=-	=-
+2f	sie	.
+2d	für	.
+2f	dir	.
+2g	ge-	.
+=-	=-	=-
+1a	-fal-	.
+1a	-len	.
+=-	=-	=-
+1e	feind	.
+1r	.	.
+=-	=-	=-
+1a	Und	.
+2f	um-	.
+2d	-bracht	.
+=-	=-	=-
+2g	al-	.
+2f	-zu-	.
+1e	-sa-	.
+=-	=-	=-
+0dll;	-men.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=65
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/01/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/01/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
