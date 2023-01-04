@@ -1,0 +1,94 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 7
+!!!OTL@@LA: Domine Dominus noster
+!!!OTL-incipit@@DE: Herr unser Herr allmechtig
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+1d	Herr
+2d	un-
+2d	-ser
+=-	=-
+2B	Herr
+2A	all-
+1G	-mech-
+=-	=-
+2G	-tig/
+2G	Wie
+2A	herr-
+2B	-lich
+=-	=-
+2c	ist
+2c	der
+1d	na-
+=-	=-
+1B	-me
+1A	dein/
+=-	=-
+1r	.
+1d	Durch-
+=-	=-
+2c	-aus
+2d	in
+2B	al-
+2A	-ler
+=-	=-
+2A	welt
+2G	ge-
+1A	-mein/
+=-	=-
+1r	.
+1A	Dein
+=-	=-
+2c	mais-
+2c	-tak
+2c	eh-
+2A	-ren-
+=-	=-
+1G	-prech-
+2F	-tig
+2A	Ist
+=-	=-
+2B-	zwar
+2A	von
+2G	dir
+2F	er-
+=-	=-
+1G	-ho-
+1E	-ben
+=-	=-
+1D	sein
+1r	.
+=-	=-
+1d	Hö-
+2c	-her
+1A	denn
+=-	=-
+2F	al-
+1G	-le
+=-	=-
+1F	hi-
+1E	-mel
+=-	=-
+0Dll;	sein.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=71
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/01/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/01/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
