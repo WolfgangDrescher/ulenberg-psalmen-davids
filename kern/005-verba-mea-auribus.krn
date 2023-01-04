@@ -1,0 +1,91 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 5
+!!!OTL@@LA: Verba mea auribus
+!!!OTL-incipit@@DE: Vernim Herr meine wort
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	
+*>A	*>A	*>A
+*clefC1	*	*
+*k[b-]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+1b-	Ver-	Merck
+2b-	-nim	an
+2a	Herr	du
+=-	=-	=-
+2g	mei-	tre-
+2g	-ne	-wer
+1f#	wort/	hord/
+=-	=-	=-
+1r	.	.
+1g	Und	Die
+=-	=-	=-
+2a	laß	wol-
+2b-	sie	-be-
+2a	zu	-dach-
+2g	dir	-ten
+=-	=-	=-
+2g	kom-	re-
+2f#	-men	-de
+1g	ein/	mein.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+1r	.	.
+1g	Hab	.
+=-	=-	=-
+2g	acht	.
+2d	mein	.
+2f	höch-	.
+2g	-ste	.
+=-	=-	=-
+1a	zier	.
+1a	Auff	.
+=-	=-	=-
+2b-	mein	.
+2b-	ge-	.
+2cc	-schrei	.
+2b-	in	.
+=-	=-	=-
+2a	die-	.
+2g	-ser	.
+1a	not/	.
+=-	=-	=-
+1r	.	.
+1dd	Bit	.
+=-	=-	=-
+2cc	ich	.
+2b-	mit	.
+2a	gan-	.
+2g	-tzer	.
+=-	=-	=-
+1f	gir/	.
+1d	Mein	.
+=-	=-	=-
+1f	Kö-	.
+1g	-nig	.
+=-	=-	=-
+2a	fron/	.
+2g	mein	.
+2g	Herr	.
+2f	und	.
+=-	=-	=-
+0gll;	Got.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=65
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/01/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/01/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
