@@ -2,6 +2,7 @@
 !!!CDT: 1548/12/24-1617/02/16
 !!!OPR: Die Psalmen Davids
 !!!ONM: 5
+!!!ONM-carmgen: 5
 !!!OTL@@LA: Verba mea auribus
 !!!OTL-incipit@@DE: Vernim Herr meine wort
 **kern	**text	**text
@@ -87,5 +88,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/01/04
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/01/04
+!!!EEV: 2023/02/04
 !!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
