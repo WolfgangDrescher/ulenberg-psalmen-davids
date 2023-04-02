@@ -1,0 +1,92 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 14
+!!!ONM-carmgen: 12
+!!!OTL@@LA: Domine quis habitabit
+!!!OTL-incipit@@DE: Wer wird Herr wolgemut
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#99:139,292,708,371	*
+1G	Wer
+2G	wirt
+2G	Herr
+=-	=-
+2B	wol-
+2c	-ge-
+1d	-můt/
+=-	=-
+1r	.
+1d	In
+=-	=-
+2g	dei-
+2f	-ner
+*xywh-#99:130,649,725,221	*
+2e	hůt-
+2d	-ten
+=-	=-
+1c	gůt/
+1r	.
+=-	=-
+1c	Bei
+2d	dir
+2f	in
+=-	=-
+2e	frew-
+2d	-den
+1e	le-
+=-	=-
+1d	-ben?
+*xywh-#99:133,864,717,215	*
+0r	.
+=-	=-
+1e	Wem
+1f	wirs-
+=-	=-
+2e	-tu
+1d	gůns-
+2c	-tig
+=-	=-
+1d	sein/
+1r	.
+=-	=-
+1d	Auff
+1e	heil-
+=-	=-
+2d	-gem
+*xywh-#99:131,1078,715,227	*
+1c	ber-
+2B	-ge
+=-	=-
+1A	dein
+1r	.
+=-	=-
+1d	Ein
+2c	rů-
+2B	-he-
+=-	=-
+2A	-stat
+2G	zů-
+1A	-ge-
+=-	=-
+0Gll;	-ben?
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=99
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
