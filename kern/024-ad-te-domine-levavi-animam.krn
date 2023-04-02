@@ -1,0 +1,95 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 24
+!!!ONM-carmgen: 22
+!!!OTL@@LA: Ad te Domine levavi animam
+!!!OTL-incipit@@DE: Zu dir O Got allein in diesem leben
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#142:181,536,702,419	*
+1D	Zu
+2D	dir
+2D	O
+=-	=-
+1A	Got
+1d	al-
+=-	=-
+2c	-lein
+2B	in
+2A	die-
+2c	-sem
+=-	=-
+1B	le-
+1A	-ben/
+=-	=-
+*xywh-#142:180,933,705,234	*
+1r	.
+1A	Wil
+=-	=-
+2d	ich
+2d	mein
+1c	hertz
+=-	=-
+1e	und
+2d	mei-
+2A	-ne
+=-	=-
+2B-X	seel
+2A	er-
+1G	-he-
+=-	=-
+1F	-ben/
+1r	.
+=-	=-
+*xywh-#142:181,1154,713,285	*
+1F	Auff
+2E	dich
+2E	mein
+=-	=-
+1D	Herr/
+1A	Traw
+=-	=-
+2c	ich
+2c	be-
+2G	-sten-
+2B-X	-dig-
+=-	=-
+1A	-lich
+1r	.
+=-	=-
+*xywh-#143:118,150,714,291	*
+1A	Laß
+1c	nim-
+=-	=-
+1d	-mer-
+1A	-mer
+=-	=-
+1c	Zů-
+2A	schan-
+2G	-den
+=-	=-
+1F	wer-
+1E	-den
+=-	=-
+0Dll;	mich.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=142
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
