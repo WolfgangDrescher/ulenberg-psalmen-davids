@@ -1,0 +1,116 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 23
+!!!ONM-carmgen: 21
+!!!OTL@@LA: Dominus regit me
+!!!OTL-incipit@@DE: Die welt und all ihr reichethům
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#139:113,1016,717,416	*	*
+1d	Die	Der
+2d	welt	gantz
+2d	und	erd-
+=-	=-	=-
+2A	all	-bo-
+2B	ihr	-den
+1c	rei-	um
+=-	=-	=-
+1B	-che-	und
+1A	-thům/	um/
+=-	=-	=-
+*xywh-#140:202,134,708,339	*	*
+1r	.	.
+1A	Ist	Und
+=-	=-	=-
+2A	erb-	was
+2A	-lich	dar-
+1c	ei-	-auff
+=-	=-	=-
+2A	-gen	sich
+1G	Got	thůt
+2F	dem	er-
+=-	=-	=-
+1E	Her-	-ne-
+1D	-ren/	-ren.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#140:208,469,697,226	*	*
+1r	.	.
+1D	Denn	.
+=-	=-	=-
+2D	er	.
+2D	hat	.
+2F	ihn	.
+2E	zů	.
+=-	=-	=-
+1F	fe-	.
+1G	-stem	.
+=-	=-	=-
+1A	stand/	.
+1r	.	.
+=-	=-	=-
+*xywh-#140:212,684,695,220	*	*
+1A	Auffs	.
+2d	meer	.
+2B	ge-	.
+=-	=-	=-
+1c	-gründt	.
+2B	mit	.
+1A	sei-	.
+=-	=-	=-
+.	.	.
+2G	-ner	.
+1A	hand/	.
+=-	=-	=-
+*xywh-#140:211,900,699,229	*	*
+1r	.	.
+1c	Hat	.
+=-	=-	=-
+1c	ihn	.
+1A	im	.
+=-	=-	=-
+2B-X	an-	.
+2A	-fang	.
+2G	zu-	.
+2F	-be-	-
+=-	=-	=-
+1G	-rei-	.
+1F	-tet/	.
+=-	=-	=-
+*xywh-#140:211,1128,694,267	*	*
+1r	.	.
+1F	Und	.
+=-	=-	=-
+2G	auff	.
+2G	den	.
+2A	was-	.
+2G	-sern	.
+=-	=-	=-
+2F	aus-	.
+2G	-ge-	.
+1E	-brei-	.
+=-	=-	=-
+0Dll;	-tet.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=139
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
