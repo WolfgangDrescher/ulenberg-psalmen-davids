@@ -1,0 +1,113 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 11
+!!!ONM-carmgen: 2
+!!!OTL@@LA: Salvum me fac Deus
+!!!OTL-incipit@@DE: Hilff lieber Herr die heilig frommen
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#90:218,168,711,314	*
+1G	Hilff
+2G	lie-
+2G	-ber
+=-	=-
+1F#	Herr/
+1G	die
+=-	=-
+2A	hei-
+2B-	-lig
+1A	fom-
+=-	=-
+1G	-men
+1r	.
+=-	=-
+*xywh-#90:222,471,707,227	*
+1B-	Ha-
+1A	-ben
+=-	=-
+1G	so
+2Fny	gen-
+2B-	-tzlich
+=-	=-
+2A	ab-
+2G	-ge-
+1A	-nom-
+=-	=-
+1G	-men/
+1r	.
+=-	=-
+*xywh-#90:232,696,703,233	*
+1G	Es
+2A	ist
+2B-	hin
+=-	=-
+2A	all
+2G	auff-
+1F	-rich-
+=-	=-
+1E	-tig-
+1D	-keit/
+=-	=-
+*xywh-#90:235,930,706,225	*
+0r	.
+1A	Daß
+=-	=-
+2B-	auch
+2c	schir
+2d	un-
+2d	-ter
+=-	=-
+2c	men-
+2B-	-schen-
+1c	kin-
+=-	=-
+1B-	-den
+1r	.
+=-	=-
+*xywh-#90:235,1155,712,260	*
+1d	Kein
+2c	trew-
+2B-	und
+=-	=-
+2A	glaub
+2F	mehr
+2G	ist
+2F	zů-
+=-	=-
+1E	fin-
+1D	-den/
+=-	=-
+*xywh-#91:113,147,709,298	*
+1r	.
+1D	In
+=-	=-
+2F	die-
+2G	-ser
+2A	fehr-
+2G	-lich
+=-	=-
+1B-	bö-
+1A	-sen
+=-	=-
+0Gll;	zeit.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=90
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
