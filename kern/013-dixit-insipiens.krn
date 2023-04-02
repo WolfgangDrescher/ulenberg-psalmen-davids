@@ -1,0 +1,111 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 13
+!!!ONM-carmgen: 11
+!!!OTL@@LA: Dixit insipiens
+!!!OTL-incipit@@DE: Die thoren sprechen wol on schertzen
+**kern	**text
+*Ivox	*
+*clefC2	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#95:140,790,710,361	*
+1d	Die
+2d	tho-
+2d	-ren
+=-	=-
+2A	spre-
+2B	-chen
+2c	wol
+2d	on
+=-	=-
+1e	scher-
+1d	-tzen
+=-	=-
+*xywh-#95:146,1154,714,254	*
+1r	.
+1d	Heim-
+=-	=-
+1e	-lich
+1d	in
+=-	=-
+2c	ih-
+2e	-rem
+2d	bö-
+2c	-sen
+=-	=-
+1B	her-
+1A	-tzen:
+=-	=-
+*xywh-#96:203,124,705,300	*
+1r	.
+1A	Im
+=-	=-
+2c	hi-
+2B	-mel
+2c	ist
+2d	kein
+=-	=-
+1e	Got:
+1r	.
+=-	=-
+1e	Sie
+2f	sind
+*xywh-#96:201,423,708,224	*
+2f	ver-
+=-	=-
+2f	derbt
+2g	an
+2a	al-
+2g	-len
+=-	=-
+1f	ör-
+1e	-ten/
+=-	=-
+1r	.
+1e	Sind
+=-	=-
+1c	gar
+*xywh-#96:203,653,704,225	*
+1d	zů
+=-	=-
+2f	ei-
+2e	-nem
+2d	grew-
+2c	-el
+=-	=-
+1B-	wor-
+1A	-den/
+=-	=-
+1r	.
+1a	In
+=-	=-
+*xywh-#96:204,861,707,227	*
+2a	ih-
+2g	-rer
+*lig	*
+1f	mis-
+=-	=-
+1g	.
+*Xlig	*
+1e	-se-
+=-	=-
+0dll;	-that.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=95
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
