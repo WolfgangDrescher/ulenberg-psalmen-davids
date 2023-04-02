@@ -1,0 +1,105 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 20
+!!!ONM-carmgen: 18
+!!!OTL@@LA: Domine in virtute tua
+!!!OTL-incipit@@DE: Der könig wirt Herr wolgemůt
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#126:225,727,695,408	*
+1f	Der
+2f	kö-
+2f	-nig
+=-	=-
+2e	wirt
+2d	Herr
+2f	wol-
+2d	-ge-
+=-	=-
+1c	-můt
+1r	.
+=-	=-
+*xywh-#126:225,1131,699,269	*
+1f	Fro
+2e	sein
+2d	in
+=-	=-
+2c	dei-
+2F	-ner
+1A	stre-
+=-	=-
+1G	-cke
+1F	gůt/
+=-	=-
+*xywh-#127:107,154,715,294	*
+1r	.
+1F	Wenn
+=-	=-
+2A	du
+2B-	ihm
+2c	hast
+2c	durch
+=-	=-
+2d	gü-
+2d	-te
+1c	dein
+=-	=-
+*xywh-#127:114,439,701,226	*
+1r	.
+1c	Heil
+=-	=-
+2d	wi-
+2f	-der-
+2e	-fa-
+2d	-ren
+=-	=-
+1e	las-
+1f	-sen/
+=-	=-
+*xywh-#127:110,662,710,219	*
+1r	.
+1f	Wirt
+=-	=-
+2e	sein
+2d	hertz
+2c	vol-
+2d	-ler
+=-	=-
+2B-	won-
+2B-	-ne
+1A	sein/
+=-	=-
+*xywh-#127:109,871,710,222	*
+1r	.
+1c	Und
+=-	=-
+1d	jauch-
+2c	-zen
+1B-	u-
+=-	=-
+.	.
+2A	-ber-
+1G	-mas-
+=-	=-
+0Fll;	-sen.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=126
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
