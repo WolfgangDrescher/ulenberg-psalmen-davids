@@ -1,0 +1,110 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 15
+!!!ONM-carmgen: 13
+!!!OTL@@LA: Conserva me Domine
+!!!OTL-incipit@@DE: Halt mich o Herr in deiner hůt
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#101:126,355,711,369	*
+1G	Halt
+2G	mich
+2G	O
+=-	=-
+2F	Herr
+2E	in
+2F	dei-
+2F	-ner
+=-	=-
+1G	hůt/
+1r	.
+=-	=-
+*xywh-#101:120,717,718,220	*
+1A	Denn
+2B-	mein
+2c	hertz
+=-	=-
+2B-	auff
+2G	dich
+1B-	traw-
+=-	=-
+1A	-en
+1G	-thůt.
+=-	=-
+1r	.
+*xywh-#101:119,927,720,218	*
+1c	Ich
+=-	=-
+2c	sprach
+2c	zů
+2B-	dir:
+2A	Mein
+=-	=-
+2B-	Got
+2G	du
+1F	bist/
+=-	=-
+*xywh-#101:119,1136,720,258	*
+1r	.
+1F	Was
+=-	=-
+2G	an
+2A	mir
+1B-	ist
+=-	=-
+1d	von
+2c	gů-
+2B-	-ten
+=-	=-
+1c	din-
+1B-	-gen/
+=-	=-
+*xywh-#102:155,130,719,284	*
+1r	.
+1d	Kan
+=-	=-
+2c	dir
+2B-	keiñ
+1A	nutz
+=-	=-
+1D	noch
+2F	from-
+2G	-me
+=-	=-
+1B-	brin-
+1A	-gen/
+=-	=-
+*xywh-#102:154,410,718,223	*
+1r	.
+1A	Mein
+=-	=-
+2B-	gůt
+2B-	dir
+2c	un-
+2d	-von-
+=-	=-
+1B-	-nö-
+1A	-ten
+=-	=-
+0Gll;	ist.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=101
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
