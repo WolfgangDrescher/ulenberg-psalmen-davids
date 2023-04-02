@@ -1,0 +1,97 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 18
+!!!ONM-carmgen: 16
+!!!OTL@@LA: Cæli enarrant
+!!!OTL-incipit@@DE: Die Himml künden aus mit ehren
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#119:122,202,710,449	*
+1D	Die
+2D	hi-
+2D	-mel
+=-	=-
+2A	kün-
+2A	-den
+2d	aus
+2c	mit
+=-	=-
+1B	eh-
+1A	-ren
+=-	=-
+*xywh-#119:120,648,710,238	*
+1r	.
+1d	Die
+=-	=-
+2d	gros-
+2d	-sen
+2c	herr-
+2A	-lig-
+=-	=-
+2B-X	-keit
+2A	des
+1G	Her-
+=-	=-
+1F	-ren/
+1r	.
+=-	=-
+*xywh-#119:117,885,709,252	*
+1F	Das
+2E	gan-
+2D	-tze
+=-	=-
+2F	fir-
+2G	-ma-
+1A	-ment
+=-	=-
+1c	Er-
+2d	-ze-
+2c	-let
+=-	=-
+*xywh-#119:115,1122,716,283	*
+2Bny	auch
+2A	be-
+1G	hen-
+=-	=-
+1A	-de/
+1r	.
+=-	=-
+1A	Durch-
+2c	-aus
+2c	an
+=-	=-
+1A	al-
+1G	-lem
+=-	=-
+*xywh-#120:201,151,699,292	*
+2F	end
+2c	Die
+2A	wer-
+2A	-cke
+=-	=-
+2G	sei-
+2F	-ner
+1E	hen-
+=-	=-
+0Dll;	-de
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=119
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
