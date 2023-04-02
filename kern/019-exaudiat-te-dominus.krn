@@ -1,0 +1,94 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 19
+!!!ONM-carmgen: 17
+!!!OTL@@LA: Exaudiat te Dominus
+!!!OTL-incipit@@DE: Der Herr erhöre deine klag
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#123:116,737,700,396	*
+1c	Der
+2c	Herr
+2c	er-
+=-	=-
+2d	-hö-
+2c	-re
+2B	dei-
+2B	-ne
+=-	=-
+1A	klag/
+1r	.
+=-	=-
+1G	Wenn
+*xywh-#123:112,1133,707,266	*
+2A	dich
+2c	am
+=-	=-
+2c	bö-
+2B	-sen
+1c	tag/
+=-	=-
+1d	Die
+2e	not
+2f	thůt
+=-	=-
+2e	hart
+2e	be-
+*xywh-#124:197,131,709,293	*
+1d	dran-
+=-	=-
+1c	-gen
+1r	.
+=-	=-
+1c	Der
+2d	nam
+2d	des
+=-	=-
+2g	Got-
+2f	-tes
+2e	Ja-
+2e	-cob
+=-	=-
+1d	mild/
+*xywh-#124:195,415,706,227	*
+1e	Sei
+=-	=-
+2f	dir
+2e	zů
+2d	ei-
+2c	-nem
+=-	=-
+1d	schild/
+1r	.
+=-	=-
+1g	Thů
+2f	schirm-
+*xywh-#124:197,630,712,224	*
+2e	-weis
+=-	=-
+2d	dich
+2c	um-
+1d	-fan-
+=-	=-
+0cll;	-gen.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=123
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
