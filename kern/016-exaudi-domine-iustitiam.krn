@@ -1,0 +1,109 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 16
+!!!ONM-carmgen: 14
+!!!OTL@@LA: Exaudi Domine iustitiam
+!!!OTL-incipit@@DE: Erhör mein frömkeit trewer Herr
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#104:135,526,712,416	*
+1A	Er-
+2A	-hör
+2A	mein
+=-	=-
+2D	fröm-
+2G	-keit
+1F	trew
+=-	=-
+1E	-er
+2D	Herr
+*xywh-#104:139,926,708,227	*
+2D	Ist
+=-	=-
+2F	mein
+2G	be-
+1A	-ger
+=-	=-
+1r	.
+1A	Ver-
+=-	=-
+2d	-nim
+2d	mein
+1c	bit-
+=-	=-
+*xywh-#104:136,1148,712,265	*
+1A	-ter
+2B-X	sehn-
+2A	-lichs
+=-	=-
+1G	kla-
+2F	-gen/
+2A	In
+=-	=-
+2G	die-
+2F	-sem
+1E	za-
+=-	=-
+1D	-gen
+1r	.
+=-	=-
+*xywh-#105:138,154,713,281	*
+1D	Merck
+2F	auff
+2G	mein
+=-	=-
+2A	bit
+2A	fleh-
+2Bny	-li-
+2c	-cher
+=-	=-
+2d	wort/
+*xywh-#105:151,429,704,220	*
+2A	Mein
+1B-X	ei-
+=-	=-
+1G	-nig
+1F	hord/
+=-	=-
+1r	.
+1F	Die
+=-	=-
+1c	nicht
+1A	her-
+=-	=-
+2B-X	-kümt
+*xywh-#105:139,647,713,218	*
+2A	aus
+2G	fal-
+2F	-schem
+=-	=-
+1G	mun-
+2F	-de/
+2F	Aus
+=-	=-
+2E	lo-
+2D	-sem
+1E	grun-
+=-	=-
+0Dll;	-de.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=104
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
