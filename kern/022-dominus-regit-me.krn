@@ -1,0 +1,112 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 22
+!!!ONM-carmgen: 20
+!!!OTL@@LA: Dominus regit me
+!!!OTL-incipit@@DE: Mein hirt ist Got der Herr
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[b-]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#137:97,479,730,404	*	*
+1G	Mein	Da-
+2G	hirt	-rum
+2F	ist	ich
+=-	=-	=-
+2G	Gott	nim-
+2A	der	-mer-
+1B-	Herr/	-mehr
+=-	=-	=-
+1B-	Er	Mag
+2c	thůt	not
+2B-	mich	und
+=-	=-	=-
+*xywh-#137:97,873,732,261	*	*
+2A	im-	man-
+2G	-mer	-gel
+1A	wei-	lei-
+=-	=-	=-
+1G	-den/	-den?
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+1G	Er	.
+2F	wirt	.
+2D	mit	.
+=-	=-	=-
+*xywh-#137:105,1134,720,268	*	*
+2G	trew-	.
+2E	-wem	.
+1D	můt/	.
+=-	=-	=-
+1D	Auff	.
+2F	grü-	.
+2F	-ner	.
+=-	=-	=-
+2F	aw-	.
+2G	-en	.
+1A	gůt/	.
+=-	=-	=-
+*xywh-#138:213,150,697,288	*	*
+1r	.	.
+1A	Mir	.
+=-	=-	=-
+2c	rast	.
+2c	und	.
+2d	wei-	.
+2c	-de	.
+=-	=-	=-
+1B-	gün-	.
+1A	-nen	.
+=-	=-	=-
+1r	.	.
+1d	Wirt	.
+=-	=-	=-
+*xywh-#138:212,430,699,223	*	*
+2c	mich	.
+2A	hin-	.
+2B-	fü-	.
+2G	-ren	.
+=-	=-	=-
+1F	fein/	.
+1D	Zům	.
+=-	=-	=-
+2F	was-	.
+2F	-ser	.
+*xywh-#138:213,650,697,229	*	*
+2E	still	.
+2E	und	.
+=-	=-	=-
+1D	rein/	.
+1r	.	.
+=-	=-	=-
+1D	Zů	.
+2F	fri-	.
+2G	-schen	.
+=-	=-	=-
+2A	kü-	.
+2B-	-len	.
+1A	brun-	.
+=-	=-	=-
+0Gll;	-nen.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=137
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
