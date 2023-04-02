@@ -1,0 +1,139 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 25
+!!!ONM-carmgen: 23
+!!!OTL@@LA: Iudica me Domine
+!!!OTL-incipit@@DE: Schaff mir doch recht in sachen mein
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC3	*	*
+*k[b-]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#147:100,117,699,342	*	*
+1c	Schaff	Denn
+2c	mir	ich
+2c	doch	bin
+=-	=-	=-
+2A	recht	für
+2F	in	den
+1A	sa-	au-
+=-	=-	=-
+1B-	-chen	-gen
+1c	mein/	dein
+=-	=-	=-
+*xywh-#147:105,452,692,261	*	*
+1r	.	.
+1c	Dar-	In
+=-	=-	=-
+2c	-nach	mei-
+2A	O	-ner
+2d	Herr	un-
+2c	steht	-schuld
+=-	=-	=-
+2B-	mein	ein-
+2A	ver-	-her
+1G	-lan-	gan-
+=-	=-	=-
+1F	-gen/	-gen/
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#147:96,708,698,224	*	*
+1f	Mein	.
+2f	hoff-	.
+2f	-nung	.
+=-	=-	=-
+2e	fes-	.
+2c	-ter	.
+2d	zů-	.
+2B-	-ver-	.
+=-	=-	=-
+1A	sicht/	.
+1r	.	.
+=-	=-	=-
+*xywh-#147:91,931,703,216	*	*
+1f	Hab	.
+2e	ich	.
+2d	ge-	.
+=-	=-	=-
+2f	-trost	.
+2e	auff	.
+2d	dich	.
+2d	ge-	.
+=-	=-	=-
+1c	richt/	.
+1r	.	.
+=-	=-	=-
+*xywh-#147:88,1137,702,264	*	*
+1c	Da-	.
+2d	-rum	.
+2d	mag	.
+=-	=-	=-
+2c	ich	.
+2A	zum	.
+2d	fal	.
+2c	nicht	.
+=-	=-	=-
+1B-	wan-	.
+1A	-cke	.
+=-	=-	=-
+*xywh-#148:208,125,701,297	*	*
+1r	.	.
+1A	Ver-	.
+=-	=-	=-
+2c	-sůch/	.
+2c	prüf	.
+2d	mich	.
+2c	in	.
+=-	=-	=-
+2d	grund	.
+2e	hin-	.
+1f	-ein/	.
+=-	=-	=-
+*xywh-#148:215,408,694,224	*	*
+1r	.	.
+1f	Druch-	.
+=-	=-	=-
+2f	-leu-	.
+2e	-ter	.
+2d	auch	.
+2c	die	.
+=-	=-	=-
+2c	nie-	.
+2B-	-ren	.
+1c	mein/	.
+=-	=-	=-
+*xywh-#148:222,628,688,227	*	*
+1r	.	.
+1A	Da-	.
+=-	=-	=-
+2A	-zů	.
+2F	das	.
+2B-	hertz	.
+2A	und	.
+=-	=-	=-
+2G	all	.
+2A	ge-	.
+1G	-dan-	.
+=-	=-	=-
+0Fll;	-cken.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=146
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/02
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
