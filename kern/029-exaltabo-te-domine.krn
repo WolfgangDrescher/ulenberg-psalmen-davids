@@ -1,0 +1,114 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 29
+!!!ONM-carmgen: 27
+!!!OTL@@LA: Exaltabo te Domine
+!!!OTL-incipit@@DE: Ich wil dich Herr gebürlich loben
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#161:88,640,719,463	*	*
+1D	Ich	Hast
+2D	wil	nicht
+2E	dich	dem
+=-	=-	=-
+2F	Herr	feind
+2D	ge-	in
+2F	-bür-	sei-
+2G	-lich	-nem
+=-	=-	=-
+1A	lo-	to-
+1D	-ben/	-ben/
+=-	=-	=-
+*xywh-#161:91,1092,715,318	*	*
+1r	.	.
+1d	Denn	Zům
+=-	=-	=-
+2d	du	frew-
+2d	hast	-den-
+2c	mich	-spott
+2A	ge-	mich
+=-	=-	=-
+1G	-nom-	wer-
+1F	-men	-den
+=-	=-	=-
+1E	an/	lan.
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#162:220,127,711,302	*	*
+1G	Da	.
+2A	mir	.
+2B	war	.
+=-	=-	=-
+2c	el-	.
+2c	-lend	.
+2B	u-	.
+2A	-ber-	.
+=-	=-	=-
+1G	-kom-	.
+1A	-men/	.
+=-	=-	=-
+*xywh-#162:220,419,710,224	*	*
+1r	.	.
+1d	Schreit	.
+=-	=-	=-
+2c	ich	.
+2B	zů	.
+2A	dir	.
+2B	mein	.
+=-	=-	=-
+1c	Got	.
+1B	und	.
+=-	=-	=-
+1A	Herr	.
+1r	.	.
+=-	=-	=-
+*xywh-#162:214,625,710,235	*	*
+1c	Du	.
+2c	hast	.
+2c	auch	.
+=-	=-	=-
+2A	mei-	.
+2G	-me	.
+2F	bit	.
+2A	ver-	.
+=-	=-	=-
+1G	-nom-	.
+1F	-men/	.
+=-	=-	=-
+*xywh-#162:218,859,710,225	*	*
+1r	.	.
+1F	Und	.
+=-	=-	=-
+2A	mich	.
+2G	ge-	.
+2F	-heilt	.
+2G	von	.
+=-	=-	=-
+1F	o-	.
+1E	-ben	.
+=-	=-	=-
+0Dll;	her.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=161
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
