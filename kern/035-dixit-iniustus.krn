@@ -1,0 +1,83 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 35
+!!!ONM-carmgen: 32
+!!!OTL@@LA: Dixit iniustus
+!!!OTL-incipit@@DE: Es zeugen des gotlosen wercke
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#190:201,352,702,356	*
+1G	Es
+2G	zeu-
+2G	-gen
+=-	=-
+2D	des
+2F	got-
+2G	-lo-
+2F	-sen
+=-	=-
+1E	wer-
+1D	-cke/
+=-	=-
+*xywh-#190:202,699,702,228	*
+1r	.
+1D	Wie
+=-	=-
+2F	ich
+2F	in
+2F	mei-
+2G	-nem
+=-	=-
+2A	her-
+2B-	-tzen
+1A	mer-
+=-	=-
+1G	-cke/
+1r	.
+=-	=-
+*xywh-#190:202,919,704,220	*
+1A	Daß
+2B-	er
+2B-	Got
+=-	=-
+2A	hat
+2G	für
+1B-	au-
+=-	=-
+1c	-gen
+1d	nicht/
+=-	=-
+*xywh-#190:202,1134,702,261	*
+1r	.
+1d	Und
+=-	=-
+2c	ist
+2B-	ein
+2d	gros-
+2c	-ser
+=-	=-
+1B-	bö-
+1A	-se-
+=-	=-
+0Gll;	-wicht.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=190
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
