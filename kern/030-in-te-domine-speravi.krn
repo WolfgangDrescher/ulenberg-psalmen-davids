@@ -1,0 +1,103 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 30
+!!!ONM-carmgen: 28
+!!!OTL@@LA: In te Domine speravi
+!!!OTL-incipit@@DE: Mein hertz auff dich thůt bawen
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#164:221,925,695,471	*	*
+1D	Mein	Laß
+2D	hertz	mich
+2D	auff	in
+=-	=-	=-
+2F	dich	mei-
+2D	thůt	-nem
+*lig	*	*
+1F	baw-	-traw-
+=-	=-	=-
+1F	.	.
+*Xlig	*	*
+1A	-en/	-en
+=-	=-	=-
+*xywh-#165:81,159,710,334	*	*
+1r	.	.
+1A	Du	Be-
+=-	=-	=-
+2B-X	lie-	-schemt
+2A	-ber	stehn
+*lig	*	*
+1G	trew-	nim-
+=-	=-	=-
+1F	.	.
+*Xlig	*	*
+1G	-er	-mer-
+=-	=-	=-
+1A	Herr/	-mer.
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+1A	Thů	.
+2A	mich	.
+*xywh-#165:94,481,698,240	*	*
+2A	mein	.
+=-	=-	=-
+2A	Got	.
+2F	er-	.
+1G	-lö-	.
+=-	=-	=-
+2E	-sen/	.
+2G	Aus	.
+2G	al-	.
+2A	-ler	.
+=-	=-	=-
+2F	fehr-	.
+2D	-lig-	.
+1C	-keit	.
+=-	=-	=-
+*xywh-#165:93,710,703,233	*	*
+1r	.	.
+1A	Er-	.
+=-	=-	=-
+2c	-ret-	.
+2B	-te	.
+2A	mich	.
+2G	vom	.
+=-	=-	=-
+*lig	*	*
+1F	bö-	.
+1G	.	.
+*Xlig	*	*
+=-	=-	=-
+2A	-sen	.
+2G	Durch	.
+*xywh-#165:90,942,710,225	*	*
+2F	dein	.
+2F	ge-	.
+=-	=-	=-
+1G	-rech-	.
+1E	-tig-	.
+1Dll;	keit.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=164
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
