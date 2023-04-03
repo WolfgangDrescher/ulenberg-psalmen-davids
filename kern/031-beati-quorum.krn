@@ -1,0 +1,111 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 31
+!!!ONM-carmgen: 6
+!!!OTL@@LA: Beati quorum
+!!!OTL-incipit@@DE: O Selig dem der trewer Got
+**kern	**text
+*Ivox	*
+*clefG3	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#171:57,984,712,419	*
+1a	O
+2a	Se-
+2a	-lig
+=-	=-
+1g	dem
+2a	der
+1cc	trew-
+=-	=-
+.	.
+2b	-er
+1cc	Got/
+=-	=-
+*xywh-#172:189,139,708,298	*
+1r	.
+1cc	Sein
+=-	=-
+2b	u-
+2a	-bel-
+2cc	-that
+1b	er-
+=-	=-
+.	.
+1a	-las-
+2g	.
+=-	=-
+1a	hat/
+1r	.
+=-	=-
+*xywh-#172:195,425,701,242	*
+1cc	Des
+2b	bos-
+2a	-heit
+=-	=-
+1g	ist
+2g	be-
+1e	-de-
+=-	=-
+.	.
+2d	-cket
+1e	gar.
+=-	=-
+*xywh-#172:192,663,704,244	*
+1r	.
+1cc	Ja
+=-	=-
+2b	se-
+2a	-lig
+1g	ist
+=-	=-
+2g	der
+1e	mann
+2d	für-
+=-	=-
+1e	-war/
+1r	.
+=-	=-
+*xywh-#172:192,904,708,226	*
+1e	Dem
+2a	Got
+2a	die
+=-	=-
+2a	süm
+2b	-de
+1cc	nicht
+=-	=-
+1a	auff-
+1g	-mist
+=-	=-
+*xywh-#172:200,1130,696,281	*
+1r	.
+1g	Des
+=-	=-
+2a	geist
+2b	on
+1cc	trůg
+=-	=-
+2b	und
+1a	fal-
+2g	-scheit
+=-	=-
+0all;	ist.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=171
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
