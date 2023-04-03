@@ -1,0 +1,83 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 34
+!!!ONM-carmgen: 31
+!!!OTL@@LA: Iudica Domine nocentes
+!!!OTL-incipit@@DE: Herr richte meine widerpart
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#184:214,489,692,436	*
+1D	Herr
+2D	rich-
+2D	-te
+=-	=-
+2F	mei-
+2F	-ne
+2G	wi-
+2G	-der-
+=-	=-
+1A	-part
+1r	.
+=-	=-
+*xywh-#184:215,921,698,230	*
+1A	Die
+2A	mich
+2A	mit
+=-	=-
+2G	zanck
+2F	an-
+1A	-greif-
+=-	=-
+1G	-fen
+1F	hart/
+=-	=-
+*xywh-#184:214,1140,703,263	*
+1r	.
+1F	Thů
+=-	=-
+2F	dich
+2A	zům
+2G	streit
+2F	für
+=-	=-
+2E	mich
+2D	be-
+1E	-rei-
+=-	=-
+1F	-ten/
+1r	.
+=-	=-
+*xywh-#185:42,171,713,302	*
+1A	Be-
+1D	-strei-
+=-	=-
+1E	-te
+2F	sie
+2G	die
+=-	=-
+2F	mich
+2D	be-
+1E	-strei-
+=-	=-
+0Dll;	-ten.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=184
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
