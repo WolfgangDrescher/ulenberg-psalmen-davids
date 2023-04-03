@@ -1,0 +1,110 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 33
+!!!ONM-carmgen: 30
+!!!OTL@@LA: Benedicam Dominum
+!!!OTL-incipit@@DE: Ich wil Got unauffhörlich preisen
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#179:83,756,697,416	*
+1A	Ich
+2A	wil
+2A	Got
+=-	=-
+1D	un-
+1A	-auff-
+=-	=-
+2c	-hör-
+2A	-lich
+1G	prei-
+=-	=-
+1F	-sen/
+1r	.
+=-	=-
+*xywh-#179:83,1155,702,278	*
+1c	Und
+2A	al-
+2A	-le-
+=-	=-
+2F	-zeit
+2A	ihm
+2G	ehr
+2F	be-
+=-	=-
+1E	-wei-
+1D	-sen/
+=-	=-
+*xywh-#180:202,132,710,284	*
+1r	.
+1D	Sein
+=-	=-
+2F	lob
+2G	und
+1A	hei-
+=-	=-
+1c	-lig
+2d	eh-
+2B	-ren-
+=-	=-
+1A	-zier
+1r	.
+=-	=-
+*xywh-#180:211,404,698,233	*
+1d	Soll
+2e	stets
+2d	im
+=-	=-
+2A	mun-
+2B	-de
+2c	schwe-
+2A	-ben
+=-	=-
+1G	mir/
+1r	.
+=-	=-
+*xywh-#180:216,632,699,228	*
+1G	Da-
+1A	-von
+=-	=-
+1c	soll
+2B	mein
+2A	zung
+=-	=-
+2B	im-
+2B	-mer-
+1A	-dar
+=-	=-
+*xywh-#180:224,856,695,230	*
+1r	.
+1c	Mit
+=-	=-
+2A	frew-
+2G	-den
+2F	klin-
+2D	-gen
+=-	=-
+1F	of-
+1E	-fen-
+=-	=-
+0Dll;	-bar.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=179
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
