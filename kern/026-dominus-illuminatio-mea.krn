@@ -1,0 +1,103 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 26
+!!!ONM-carmgen: 24
+!!!OTL@@LA: Dominus illuminatio mea
+!!!OTL-incipit@@DE: Got ist mein liecht mein trost und hail
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#150:205,286,703,400	*
+1D	Got
+2D	ist
+2D	mein
+=-	=-
+2F	liecht/
+2G	mein
+1A	trost
+=-	=-
+1G	und
+1A	heil
+=-	=-
+*xywh-#150:204,677,706,233	*
+1r	.
+1A	Wen
+=-	=-
+2c	soll
+2B	dann
+2A	fürch-
+2G	-ten
+=-	=-
+1F	mei-
+1G	-ne
+=-	=-
+1A	seel?
+1r	.
+=-	=-
+*xywh-#150:205,910,704,220	*
+1A	Der
+2A	Herr
+2A	ist
+=-	=-
+2G	mei-
+2E	-ne
+1F	stre-
+=-	=-
+1D	-cke
+1C	gůt
+=-	=-
+*xywh-#150:203,1122,708,267	*
+1r	.
+1C	Mein
+=-	=-
+2D	le-
+2E	-ben
+2F	steht
+2G	in
+=-	=-
+1A	sei-
+1G	-ner
+=-	=-
+1F	hůt/
+1r	.
+=-	=-
+*xywh-#151:100,145,711,289	*
+1A	Für
+2A	wem
+2A	soll
+=-	=-
+2G	mir
+2A	dann
+2B	aus
+2c	mis-
+=-	=-
+1B	-traw-
+2A	-en
+*xywh-#151:113,415,696,238	*
+2A	Mit
+=-	=-
+2B	schre-
+2d	-cken
+1c	graw-
+=-	=-
+0dll;	-en?
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=150
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/03
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/03
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
