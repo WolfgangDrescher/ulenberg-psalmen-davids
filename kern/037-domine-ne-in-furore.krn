@@ -1,0 +1,105 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 37
+!!!ONM-carmgen: 6
+!!!OTL@@LA: Domine ne in furore
+!!!OTL-incipit@@DE: Straff mich Herr nit im eiffermůt
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#202:208,330,698,377	*
+1E	Straff
+2E	mich
+2E	Herr
+=-	=-
+2G	nicht
+2G	im
+2F	eif-
+2F	-fer-
+=-	=-
+1E	-můt/
+1r	.
+=-	=-
+*xywh-#202:211,700,696,222	*
+1E	Wenn
+2A	dein
+2A	zorn
+=-	=-
+2G	hef-
+2F	-tig
+2E	bren-
+2D	-nen
+=-	=-
+1E	thůt/
+1r	.
+=-	=-
+*xywh-#202:217,922,695,217	*
+1G	Zůch-
+2A	-tig
+2A	mich
+=-	=-
+2B	nicht
+2G	im
+1c	grim-
+=-	=-
+1c	-men
+1B	dein/
+=-	=-
+*xywh-#202:222,1136,690,252	*
+1r	.
+1G	Um
+=-	=-
+1A	viel-
+1c	-ge-
+=-	=-
+2B	-tha-
+2A	-ne
+2A	fün-
+2G	-de
+=-	=-
+1A	mein/
+1r	.
+=-	=-
+*xywh-#203:10,145,702,280	*
+1A	Denn
+2G	dei-
+2E	-ne
+=-	=-
+2F	pfeil
+2G	mit
+1E	gros-
+=-	=-
+1D	-ser
+1C	pein
+=-	=-
+*xywh-#203:17,423,698,223	*
+1G	Gar
+2A	teiff
+2B	in
+=-	=-
+2c	mich
+2A	ge-
+1G	-schos-
+=-	=-
+1F	-sen
+0Ell;	sein.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=202
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
