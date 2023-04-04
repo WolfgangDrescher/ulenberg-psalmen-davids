@@ -1,0 +1,149 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 36
+!!!ONM-carmgen: 33
+!!!OTL@@LA: Noli æmulari
+!!!OTL-incipit@@DE: Erzürne nicht uber die bösen
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#193:66,165,726,384	*	*
+1D	Er-	Denn
+2D	-zür-	sie
+2D	-ne	gleich
+=-	=-	=-
+2F	nicht	wie
+2F	u-	das
+2G	-ber	gras
+2F	die	der
+=-	=-	=-
+1E	bö-	er-
+1D	-sen/	-dẽ
+=-	=-	=-
+*xywh-#193:76,539,718,300	*	*
+1r	.	.
+1D	Hab	Schnell
+=-	=-	=-
+2F	kein-	ein-
+2G	-nen	-mal
+2A	neid	ab-
+2A	auff	-ge-
+=-	=-	=-
+2G	die	-haw-
+2E	got-	-en
+1F	-lo-	wer-
+=-	=-	=-
+1E	-sen/	den/
+1r	.	.
+=-	=-	=-
+*xywh-#193:75,840,720,290	*	*
+1C	Die	Und
+2D	u-	wel-
+2E	-bels	-cken
+=-	=-	=-
+1F	thůn	wie
+2E	in	grůn
+1D	die-	kraut
+=-	=-	=-
+.	.	.
+2C	-ser	im
+1D	welt.	feld.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#193:86,1129,707,308	*	*
+1r	.	.
+1D	Ver-	.
+=-	=-	=-
+2A	traw-	.
+2A	-e	.
+2B	dich	.
+2c	dem	.
+=-	=-	=-
+2d	lie-	.
+2B	-ben	.
+1A	Got/	.
+=-	=-	=-
+*xywh-#194:226,135,699,298	*	*
+1r	.	.
+1d	Und	.
+=-	=-	=-
+2d	hoff	.
+2d	auff	.
+1c	ihn	.
+=-	=-	=-
+2B	in	.
+1A	al-	.
+2G	-ler	.
+=-	=-	=-
+1A	not/	.
+1r	.	.
+=-	=-	=-
+*xywh-#194:229,431,691,229	*	*
+1A	Thů	.
+2c	gůts/	.
+2c	bleib	.
+=-	=-	=-
+2c	wo-	.
+2A	-nen	.
+2G	in	.
+2G	dem	.
+=-	=-	=-
+1F	land/	.
+1r	.	.
+=-	=-	=-
+*xywh-#194:229,652,694,236	*	*
+1A	Der	.
+2G	Herr	.
+2F	wirt	.
+=-	=-	=-
+2E	dir	.
+2D	mit	.
+1F	mil-	.
+=-	=-	=-
+1G	-der	.
+1A	hand	.
+=-	=-	=-
+*xywh-#194:229,885,699,230	*	*
+1A	Reich	.
+2c	thům	.
+2c	zůr	.
+=-	=-	=-
+2d	not-	.
+2d	-trufft	.
+2A	wol	.
+2G	be-	.
+=-	=-	=-
+1F	-sche-	.
+2E	-ren/	.
+*xywh-#194:229,1112,694,286	*	*
+2A	Und	.
+=-	=-	=-
+2B-	trew-	.
+2A	-lich	.
+2G	dich	.
+2F	er-	.
+=-	=-	=-
+1E	-ne-	.
+1Dll;	-ren	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=193
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
