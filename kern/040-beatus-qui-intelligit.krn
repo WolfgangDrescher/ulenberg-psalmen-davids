@@ -1,0 +1,133 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 40
+!!!ONM-carmgen: 9
+!!!OTL@@LA: Beatus qui intelligit
+!!!OTL-incipit@@DE: Selig zů preisen ist der mann
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC2	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#216:200,897,683,507	*	*
+1d	Se-	Und
+2d	-lig	nimt
+2d	zů	sich
+=-	=-	=-
+2A	prei-	des
+2B	-sen	el-
+1c	ist	-len-
+=-	=-	=-
+1d	der	-den
+1e	mann/	an/
+=-	=-	=-
+*xywh-#217:56,154,732,361	*	*
+1r	.	.
+1d	Der	Thůt
+=-	=-	=-
+2f	acht	sein
+2f	hat	sich
+2g	auff	gern
+2f	den	er-
+=-	=-	=-
+1e	ar-	-bar-
+1d	-men/	-men.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#217:76,503,710,227	*	*
+1r	.	.
+1a	Den	.
+=-	=-	=-
+1a	wirt	.
+1d	der	.
+=-	=-	=-
+2g	lie-	.
+2f	-ber	.
+2e	trew-	.
+2d	-er	.
+=-	=-	=-
+1c	Got	.
+1r	.	.
+=-	=-	=-
+*xywh-#217:72,721,712,225	*	*
+1d	Mit	.
+2e	gnad	.
+2f	er-	.
+=-	=-	=-
+2g	-ret-	.
+2a	-ten	.
+2g	aus	.
+2f	der	.
+=-	=-	=-
+1e	not/	.
+1r	.	.
+=-	=-	=-
+*xywh-#217:74,945,709,222	*	*
+1e	In	.
+2f	fehr-	.
+2e	-lich	.
+=-	=-	=-
+2d	bö-	.
+2c	-sen	.
+1B-X	zei-	.
+=-	=-	=-
+1A	-ten/	.
+1r	.	.
+=-	=-	=-
+*xywh-#217:81,1159,706,259	*	*
+1A	Wenn	.
+1c	ihm	.
+=-	=-	=-
+1d	ist	.
+2e	lei-	.
+2d	-den	.
+=-	=-	=-
+2f	u-	.
+2f	-ber-	.
+1e	-sandt/	.
+=-	=-	=-
+*xywh-#218:169,154,725,290	*	*
+1r	.	.
+1e	Daß	.
+=-	=-	=-
+2f	auff	.
+2d	ihn	.
+2f	el-	.
+2g	-lend	.
+=-	=-	=-
+1a	vie-	.
+1a	-ler-	.
+=-	=-	=-
+1e	-hand	.
+1r	.	.
+=-	=-	=-
+*xywh-#218:171,440,723,227	*	*
+1a	Her-	.
+2f	-dringt	.
+2d	von	.
+=-	=-	=-
+2g	al-	.
+2f	-len	.
+1e	sei-	.
+=-	=-	=-
+0dll;	-ten.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=216
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
