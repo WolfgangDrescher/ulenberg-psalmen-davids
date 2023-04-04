@@ -1,0 +1,95 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 38
+!!!ONM-carmgen: 34
+!!!OTL@@LA: Dixi custodiam
+!!!OTL-incipit@@DE: Ich hab also bei mir gedacht
+**kern	**text
+*Ivox	*
+*clefC1	*
+*k[b-]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#206:226,932,697,461	*
+1g	Ich
+2g	hab
+2g	al-
+=-	=-
+2f	-so
+2g	bei
+2g	mir
+2f	ge-
+=-	=-
+1g	-dacht:
+1r	.
+=-	=-
+*xywh-#207:39,139,685,303	*
+1b-	Auff
+1a	mein
+=-	=-
+1g	thůn
+1f	wil
+=-	=-
+2d	ich
+1g	ha-
+2f	-ben
+=-	=-
+1g	acht/
+1r	.
+=-	=-
+*xywh-#207:39,438,691,235	*
+1g	Und
+2a	zwin-
+2a	-gen
+=-	=-
+2a	mei-
+2b-	-ne
+1g	zu-
+=-	=-
+2f	-gen/
+*xywh-#207:17,665,713,239	*
+2d	Hal-
+2f	-ten
+2e	sie
+=-	=-
+2d	wol
+2c	im
+1d	zaum/
+=-	=-
+*xywh-#207:22,902,706,225	*
+1r	.
+1a	Daß
+=-	=-
+2b-	sie
+2a	nicht
+2a	un-
+2g	-be-
+=-	=-
+1f	-zwun-
+2g	-gen
+*xywh-#207:23,1125,711,278	*
+2b-	Zů
+=-	=-
+2a	sün-
+2g	-den
+2g	ha-
+2f	-be
+=-	=-
+0gll;	raum.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=206
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
