@@ -1,0 +1,112 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 41
+!!!ONM-carmgen: 35
+!!!OTL@@LA: Quemadmodum desiderat
+!!!OTL-incipit@@DE: Wie ein hirsch girlich schreien thůt
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#221:55,142,733,531	*	*
+1G	Wie	So
+2B	ein	seh-
+2c	hirsch	-net
+=-	=-	=-
+2d	gir-	sich
+2G	-lich	die
+1A	schrei-	seel
+=-	=-	=-
+1B	-en	in
+1c	thůt/	mir/
+=-	=-	=-
+*xywh-#221:65,664,716,271	*	*
+1r	.	.
+1c	Nach	Schreit
+=-	=-	=-
+1B	fri-	Herr
+1d	-schen	zů
+=-	=-	=-
+2c	was-	dir
+2B	-ser-	mit
+2A	-brun-	gan-
+2A	-nen	-tzer
+=-	=-	=-
+1G	gůt/	gir.
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#221:70,933,715,216	*	*
+1d	Nach	.
+2d	dir	.
+2B	sie	.
+=-	=-	=-
+2e	gros	.
+2d	ver-	.
+1c	-lang-	.
+=-	=-	=-
+1B	-gen	.
+1A	hat/	.
+=-	=-	=-
+*xywh-#221:81,1146,706,263	*	*
+1r	.	.
+1c	Dem	.
+=-	=-	=-
+2d	le-	.
+2c	-ben-	.
+2B	-di-	.
+1A	-gen	.
+=-	=-	=-
+.	.	.
+1G	star-	.
+2F	-cken	.
+=-	=-	=-
+1G	Got/	.
+1r	.	.
+=-	=-	=-
+*xywh-#222:217,172,705,289	*	*
+1G	Wenn	.
+1A	soll	.
+=-	=-	=-
+1B-X	ich	.
+2A	zu	.
+2G	dir	.
+=-	=-	=-
+2F	kom-	.
+2E	-men	.
+1D	ein/	.
+=-	=-	=-
+*xywh-#222:224,462,700,221	*	*
+1r	.	.
+1A	Er-	.
+=-	=-	=-
+2c	-schei-	.
+2Bny	-nen	.
+2A	für	.
+2G	den	.
+=-	=-	=-
+1B	au-	.
+1A	-gen	.
+=-	=-	=-
+0Gll;	dein?	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=221
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/04
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/04
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
