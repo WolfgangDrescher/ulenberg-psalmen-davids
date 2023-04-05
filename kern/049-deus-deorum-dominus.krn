@@ -1,0 +1,105 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 49
+!!!ONM-carmgen: 6
+!!!OTL@@LA: Deus deorum Dominus
+!!!OTL-incipit@@DE: Der starcker Got im himelreich
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#255:80,149,697,326	*
+1E	Der
+2E	star-
+2E	-cker
+=-	=-
+2G	Got
+2G	im
+2F	hi-
+2F	-mel-
+=-	=-
+1E	-reich
+1r	.
+=-	=-
+*xywh-#255:88,471,688,232	*
+1E	Ein
+2A	Herr
+2A	der
+=-	=-
+2G	Göt-
+2F	-ter
+2E	al-
+2D	-le-
+=-	=-
+1E	-gleich/
+*xywh-#255:92,698,687,225	*
+1G	Wirt
+=-	=-
+2A	re-
+2A	-den
+2B	wenn
+2G	es
+=-	=-
+1c	ihm
+1c	ge-
+=-	=-
+1B	-felt/
+1r	.
+=-	=-
+*xywh-#255:99,913,677,227	*
+1G	Und
+1A	růf-
+=-	=-
+1c	-fen
+2B	an
+2A	die
+=-	=-
+2A	gan-
+2G	-tze
+1A	welt/
+=-	=-
+1r	.
+*xywh-#255:111,1139,669,266	*
+1A	Daß
+=-	=-
+2G	man
+2E	wirt
+2F	hö-
+2G	-ren
+=-	=-
+1E	sei-
+1D	-nen
+=-	=-
+1C	klang
+*xywh-#256:242,159,690,299	*
+1r	.
+=-	=-
+1G	Vom
+2A	auff-
+2B	-gang
+=-	=-
+2c	bis
+2A	zům
+1G	ni-
+=-	=-
+1F	-der-
+1Ell;	-gang.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=255
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
