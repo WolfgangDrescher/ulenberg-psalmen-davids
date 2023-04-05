@@ -1,0 +1,99 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 44
+!!!ONM-carmgen: 37
+!!!OTL@@LA: Eructavit cor meum
+!!!OTL-incipit@@DE: Mein hertz herfür wil bringen
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#234:235,173,722,324	*	*
+1D	Mein	Vom
+2F	hertz	Kö-
+2F	her-	-nig
+=-	=-	=-
+2G	-für	wil
+2G	wil	ich
+1A	brin-	sin-
+=-	=-	=-
+2D	-gen	-gen/
+*xywh-#234:237,491,716,260	*	*
+2A	Ein	Dem
+2G	schön	soll
+2F	ge-	diß
+=-	=-	=-
+2E	-dicht/	werck
+2D	ein	ge-
+2D	lied-	-schen-
+2C	-lein	-cket
+=-	=-	=-
+1D	fein/	sein.
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+*xywh-#234:240,746,714,220	*	*
+1d	Mein	.
+2A	zung	.
+2d	für	.
+=-	=-	=-
+2d	al-	.
+2d	-len	.
+1c	din-	.
+=-	=-	=-
+2A	-gen	.
+*xywh-#234:241,961,716,217	*	*
+2c	Eins	.
+2d	schnel-	.
+2d	-len	.
+=-	=-	=-
+2c	schrei-	.
+2A	-bers	.
+2G	fe-	.
+2F	-dern	.
+=-	=-	=-
+1E	gleich/	.
+1r	.	.
+=-	=-	=-
+*xywh-#234:243,1174,712,260	*	*
+1A	Soll	.
+2A	frö-	.
+2A	-lich	.
+=-	=-	=-
+2A	ein-	.
+2F	-her	.
+1G	klin-	.
+=-	=-	=-
+2E	-gen/	.
+*xywh-#235:97,151,701,287	*	*
+2F	Von	.
+2G	die-	.
+2F	-sem	.
+=-	=-	=-
+2E	hel-	.
+2D	-den	.
+2E	eh-	.
+2E	-ren-	.
+=-	=-	=-
+0Dll;	reich.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=234
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
