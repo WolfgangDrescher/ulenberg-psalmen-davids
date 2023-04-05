@@ -1,0 +1,111 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 42
+!!!ONM-carmgen: 36
+!!!OTL@@LA: Iudica me Deus
+!!!OTL-incipit@@DE: Urteil mich Herr und schaff mit recht
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#225:115,137,692,317	*
+1c	Ur-
+2c	teil
+2c	mich
+=-	=-
+2d	Herr
+2c	und
+1e	schaff
+=-	=-
+1d	mir
+1c	recht/
+=-	=-
+*xywh-#225:113,453,691,234	*
+1r	.
+1c	Nim
+=-	=-
+2g	dich
+2g	an
+2d	mei-
+2e	-ner
+=-	=-
+1f	sa-
+2e	-chen/
+*xywh-#225:106,686,698,224	*
+2g	Aus-
+=-	=-
+2f	-fün-
+2e	-dig
+2d	sie
+2c	zů-
+=-	=-
+1B	-ma-
+1G	-chen/
+=-	=-
+*xywh-#225:105,910,702,224	*
+1r	.
+1G	Deñ
+=-	=-
+2A	das
+2c	un-
+2d	-hei-
+2e	-li-
+=-	=-
+2d	-ge
+2d	ge-
+1c	-schlecht/
+=-	=-
+*xywh-#225:113,1136,694,267	*
+1r	.
+1d	Von
+=-	=-
+2e	den
+2g	ver-
+2f	-ker-
+2d	-ten
+=-	=-
+1e	bü-
+2d	-ben/
+*xywh-#226:226,153,715,295	*
+2f	Die
+=-	=-
+2e	list
+2d	und
+2c	fal-
+2B	-scheit
+=-	=-
+1A	u-
+1G	-ben
+=-	=-
+*xywh-#226:226,439,707,221	*
+1r	.
+1c	Er-
+=-	=-
+1d	-lös
+1e	mit
+=-	=-
+2g	gna-
+2e	-den
+2d	dei-
+2d	-nen
+=-	=-
+0cll;	knecht.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=225
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
