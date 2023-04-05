@@ -1,0 +1,107 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 50
+!!!ONM-carmgen: 6
+!!!OTL@@LA: Miserere mei Deus
+!!!OTL-incipit@@DE: Got sei mir gnedig diser zeit
+**kern	**text
+*Ivox	*
+*clefC4	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#259:131,958,676,432	*
+1E	Got
+2E	sei
+2E	mir
+=-	=-
+2G	gne-
+2G	-dig
+2F	di-
+2F	-ser
+=-	=-
+1E	zeit/
+1r	.
+=-	=-
+*xywh-#260:211,128,682,292	*
+1E	Nach
+2A	dei-
+2A	-ner
+=-	=-
+2G	gros-
+2F	-sen
+2E	gü-
+2D	-tig-
+=-	=-
+1E	-keit/
+1r	.
+=-	=-
+*xywh-#260:220,421,683,229	*
+1G	Tilg
+2A	aus
+2A	die
+=-	=-
+2B	u-
+2G	-ber-
+1c	-ret-
+=-	=-
+1c	-tung
+1B	mein/
+=-	=-
+*xywh-#260:219,651,705,233	*
+1r	.
+1G	Nach
+=-	=-
+1A	viel-
+1c	-heit
+=-	=-
+2B	der
+2A	er-
+2A	-bar-
+2G	-mung
+=-	=-
+1A	dein/
+1r	.
+=-	=-
+*xywh-#260:226,885,714,230	*
+1A	Und
+2G	wa-
+2E	-sche
+=-	=-
+2F	mich
+2G	je
+1E	mehr
+=-	=-
+1D	und
+1C	mehr/
+=-	=-
+*xywh-#260:228,1116,716,220	*
+1r	.
+1G	Von
+=-	=-
+2A	mei-
+2B	-nen
+2c	u-
+2A	-bel-
+=-	=-
+1G	-tha-
+1F	-ten
+=-	=-
+0Ell;	schwer.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=259
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
