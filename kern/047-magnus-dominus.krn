@@ -1,0 +1,109 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 47
+!!!ONM-carmgen: 39
+!!!OTL@@LA: Magnus Dominus
+!!!OTL-incipit@@DE: Gros ist der Herr im heilgen thron
+**kern	**text
+*Ivox	*
+*clefC3	*
+*k[]	*
+*M2/1	*
+*met(C|)	*
+*MM180	*
+=-	=-
+*xywh-#246:256,135,688,503	*
+1c	Gros
+2c	ist
+2d	der
+=-	=-
+1e	Herr
+1g	im
+=-	=-
+2f	heil-
+2e	-gen
+1d	thron/
+=-	=-
+*xywh-#246:256,637,692,246	*
+1r	.
+1g	Wirt
+=-	=-
+2g	tref-
+2g	-flich
+2f	hoch
+2e	mir
+=-	=-
+2d	füs-
+2c	-sem
+1B	ton
+=-	=-
+*xywh-#246:255,882,697,230	*
+1r	.
+1c	In
+=-	=-
+2d	un-
+2d	-sers
+2e	Got-
+2f	-tes
+=-	=-
+2e	stat
+2e	ge-
+1d	-prie-
+=-	=-
+1c	-sen
+1r	.
+=-	=-
+*xywh-#246:255,1112,702,285	*
+1c	Auff
+1e	sei-
+=-	=-
+1d	-nem
+2c	heil-
+2B	-gen
+=-	=-
+2A	ber-
+2A	-ge
+1G	gůt/
+=-	=-
+*xywh-#247:89,129,686,303	*
+1r	.
+1G	Wirt
+=-	=-
+2c	ihm
+2d	sein
+2e	ehr
+2e	mit
+=-	=-
+2c	frei-
+2e	-em
+1d	můt
+=-	=-
+*xywh-#247:86,423,683,224	*
+1r	.
+1g	Herr-
+=-	=-
+2f	-lich
+2e	nach
+2d	der
+2c	ge-
+=-	=-
+2B	-bür-
+2e	-be-
+1d	-wei-
+=-	=-
+0cll;	-sen.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=246
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
