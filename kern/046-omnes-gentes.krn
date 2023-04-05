@@ -1,0 +1,112 @@
+!!!COM: Ulenberg, Caspar
+!!!CDT: 1548/12/24-1617/02/16
+!!!OPR: Die Psalmen Davids
+!!!ONM: 46
+!!!ONM-carmgen: 20
+!!!OTL@@LA: Omnes gentes
+!!!OTL-incipit@@DE: Wolauff ihr völcker all
+**kern	**text	**text
+*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A
+*clefC4	*	*
+*k[b-]	*	*
+*M2/1	*	*
+*met(C|)	*	*
+*MM180	*	*
+=-	=-	=-
+*xywh-#243:91,123,704,414	*	*
+1G	Wol-	Jauchtzt
+2G	-auff	Got
+2F	ihr	mit
+=-	=-	=-
+2G	völ-	frew-
+2A	-cker	-dẽ-
+1B-	all/	-schall/
+=-	=-	=-
+1B-	Fro-	Singt
+2c	-lo-	ihm
+2B-	-cket	an
+=-	=-	=-
+*xywh-#243:93,534,696,311	*	*
+2A	mit	al-
+2G	den	-len
+1A	hen-	en-
+=-	=-	=-
+1G	-den/	den.
+1r	.	.
+=:|!	=:|!	=:|!
+*>B	*>B	*>B
+1G	Er	.
+2F	ist	.
+2D	ein	.
+=-	=-	=-
+*xywh-#243:92,834,693,262	*	*
+2G	Herr	.
+2E	für-	.
+1D	-war/	.
+=-	=-	=-
+1D	Gar	.
+2F	hoch	.
+2F	und	.
+=-	=-	=-
+2F	wun-	.
+2G	-der-	.
+1A	-bar/	.
+=-	=-	=-
+*xywh-#243:94,1098,687,304	*	*
+1r	.	.
+1A	Für	.
+=-	=-	=-
+2c	dem	.
+2c	sich	.
+2d	al-	.
+2c	-les	.
+=-	=-	=-
+1B-	schre-	.
+1A	-cket/	.
+=-	=-	=-
+1r	.	.
+1d	Ein	.
+=-	=-	=-
+*xywh-#244:189,149,708,304	*	*
+2c	gros-	.
+2A	-ser	.
+2B-	Kö-	.
+2G	-nig	.
+=-	=-	=-
+1F	gůt/	.
+1D	Des	.
+=-	=-	=-
+2F	herr-	.
+2F	-schafft	.
+*xywh-#244:193,445,706,233	*	*
+2E	rei-	.
+2E	-chen	.
+=-	=-	=-
+1D	thůt/	.
+1r	.	.
+=-	=-	=-
+1D	So	.
+2F	weit	.
+2G	die	.
+=-	=-	=-
+2A	welt	.
+2B-	sich	.
+2A	stre-	.
+=-	=-	=-
+0Gll;	-cket.	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Psalm
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb11116252
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11116252?page=243
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11116252/manifest
+!!!EED: Wolfgang Drescher
+!!!END: 2023/04/05
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/04/05
+!!!title: @{ONM}. @{OTL} / <i>@{OTL-incipit@@DE}</i>
